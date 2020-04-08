@@ -1,0 +1,20 @@
+
+body {
+  margin: 60px 0px;
+}
+.edit {
+  width: 500px;
+  height: 500px;
+  font-size: 1.6em;
+  font-weight: 500;
+}
+
+.forms {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.page {
+  padding: 100px;
+  font-size: 25px;
+}
